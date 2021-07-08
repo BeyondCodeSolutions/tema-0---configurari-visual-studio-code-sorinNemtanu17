@@ -74,4 +74,5 @@ When your homework is done, open a pull request:
 
 1. Go to GitHub, find the repo you were
 2. Click `Pull Requests`
-3.
+3. inca ceva
+4. si inca ceva
